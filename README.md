@@ -16,13 +16,26 @@ Here are some ideas to get you started:
 
 ### GitHub Stats 📈
 
-[![GitHub license](https://img.shields.io/github/license/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/blob/main/LICENSE)
+![Total Stars](https://img.shields.io/github/stars/md-tausif09?style=flat-square)
+![Total Commits](https://img.shields.io/github/commit-activity/y/md-tausif09?style=flat-square)
+![Total PRs](https://img.shields.io/github/issues-pr/md-tausif09?style=flat-square)
+![Merged PRs Percentage](https://img.shields.io/github/merge-pr-percentage/md-tausif09?style=flat-square)
+![Total Issues](https://img.shields.io/github/issues/md-tausif09?style=flat-square)
+![Contributed to](https://img.shields.io/github/contributors/md-tausif09/md-tausif09?style=flat-square)
 
-[![GitHub stars](https://img.shields.io/github/stars/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/stargazers)
+## Languages
 
-[![GitHub forks](https://img.shields.io/github/forks/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/network)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-tausif09&layout=compact)
 
-[![GitHub issues](https://img.shields.io/github/issues/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/issues)
+## Overview
+
+- Total Stars Earned: [![Total Stars](https://img.shields.io/github/stars/md-tausif09?style=flat-square)](https://github.com/md-tausif09)
+- Total Commits (2023): [![Total Commits](https://img.shields.io/github/commit-activity/y/md-tausif09?style=flat-square)](https://github.com/md-tausif09)
+- Total PRs: [![Total PRs](https://img.shields.io/github/issues-pr/md-tausif09?style=flat-square)](https://github.com/md-tausif09)
+- Merged PRs Percentage: [![Merged PRs Percentage](https://img.shields.io/github/merge-pr-percentage/md-tausif09?style=flat-square)](https://github.com/md-tausif09)
+- Total Issues: [![Total Issues](https://img.shields.io/github/issues/your-username?style=flat-square)](https://github.com/md-tausif09)
+- Contributed to (last year): [![Contributed to](https://img.shields.io/github/contributors/md-tausif09/your-repo?style=flat-square)](https://github.com/md-tausif09/md-tausif09)
+
 
 
 
