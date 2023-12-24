@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**md-tausif09/md-tausif09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi 👋, I'm Md Tausif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  [![@mdtausifspj2001's Holopin board](https://holopin.me/mdtausifspj2001)](https://holopin.io/@mdtausifspj2001)
+
+### GitHub Stats 📈
+
+[![GitHub license](https://img.shields.io/github/license/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/blob/main/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/network)
+
+[![GitHub issues](https://img.shields.io/github/issues/md-tausif09/md-tausif09)](https://github.com/md-tausif09/md-tausif09/issues)
+
+
+
 
