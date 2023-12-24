@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### GitHub Stats 📈
 
 ![Total Stars](https://img.shields.io/github/stars/md-tausif09?style=flat-square)
-![Total Commits](https://img.shields.io/github/commit-activity/y/md-tausif09?style=flat-square)
+[![Total Commits](https://img.shields.io/github/commit-activity/y/md-tausif09?style=flat-square)](https://img.shields.io/github/commit-status/md-tausif09/md-tausif09/main/commit
+)
 ![Total PRs](https://img.shields.io/github/issues-pr/md-tausif09?style=flat-square)
 ![Merged PRs Percentage](https://img.shields.io/github/merge-pr-percentage/md-tausif09?style=flat-square)
 ![Total Issues](https://img.shields.io/github/issues/md-tausif09?style=flat-square)
